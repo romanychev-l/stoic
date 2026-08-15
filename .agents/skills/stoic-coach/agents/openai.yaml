@@ -1,0 +1,4 @@
+interface:
+  display_name: "Stoic Coach"
+  short_description: "Спокойное сопровождение 40-дневной практики"
+  default_prompt: "Используй $stoic-coach для проверки моего дня Stoic и дай одно корректирующее действие."
